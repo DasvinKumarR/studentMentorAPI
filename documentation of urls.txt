@@ -1,0 +1,4 @@
+Repo url - https://github.com/DasvinKumarR/studentMentorAPI
+Deployed url - https://studentmentorapi-g4jd.onrender.com
+
+API will work only if the mongoDB cluster is up and run.
